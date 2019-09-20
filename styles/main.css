@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.element{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.circle__element {
+    position:absolute;
+    
+
+  
+}
+
+.rotate__element{
+    position:absolute;
+    margin: 0px 0px 0px 60px;
+}
+
+.print{
+    position:absolute;
+    margin: 300px 0px 40px 0px;
+}
